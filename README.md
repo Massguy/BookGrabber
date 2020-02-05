@@ -1,6 +1,6 @@
 ## `What the Project is`
 
-This project uses the google books api. You can search for any book of your choice. You can also sort according to the newest or oldest. Axios was used to fetch data.
+This project uses the google books api. You can search for any book of your choice. You can also sort data according to the newest or oldest. Axios was used to fetch data.
 
 ### `npm start`
 
